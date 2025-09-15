@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FuncApps_hrk123": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7248",
+      "launchBrowser": false
+    }
+  }
+}
